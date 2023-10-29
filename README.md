@@ -1,1 +1,1 @@
-### Material : https://genomicsaotearoa.github.io/shell-for-bioinformatics/
+This is a modified version of the original Genomics Aotearoa "shell for bioinformatics" workshop https://genomicsaotearoa.github.io/shell-for-bioinformatics/ and has been customised for the Otago Bioinformatics Spring School
