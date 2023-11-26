@@ -4,6 +4,16 @@
 
     - Inspect data with `md5` (checksum verification)
 
+
+This data is already downloaded and ready for you in `~/obss_2023/commandline/shell4b_data`
+
+!!! terminal "code"
+
+    ```bash
+    cd ~/obss_2023/commandline/shell4b_data
+    ```
+
+
 !!! desktop-download-24 "Download with `wget` from a terminal client"
 
     ```bash
